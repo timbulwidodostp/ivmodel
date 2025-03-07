@@ -3,6 +3,8 @@ Fitting instrumental variables (IV) models Use ivmodel With (In) R Software
 
 Fits an instrumental variables (IV) model with one endogenous variable and a continuous outcome Use ivmodel With (In) R Software
 
+https://www.youtube.com/watch?v=3UMO5uHYJWU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
